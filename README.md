@@ -14,5 +14,6 @@ It allows users to check the weather of different cities/places.
 ---
 ### Author
 **Sabita Adhikari**
+<br>
 [LinkedIn](https://www.linkedin.com/in/sabita-adhikari-927665362/)
 
